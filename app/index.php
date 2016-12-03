@@ -9,9 +9,14 @@
     <title>Git development</title>
 </head>
 <body>
-    <h1>Git Title</h1>
+    <h1>Git</h1>
     <h2>I just wanna live forever!</h2>
-    <p>Another text</p>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-6">Abc</div>
+            <div class="col-xs-6">Def</div>
+        </div>
+    </div>
     <script src="../bower_components/jquery/dist/jquery.min.js"></script>
 </body>
 </html>
